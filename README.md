@@ -293,5 +293,3 @@ This project is provided as-is for personal use. Please respect copyright laws a
 - Playlist generation
 
 ---
-
-**Happy organizing! 🎵**
