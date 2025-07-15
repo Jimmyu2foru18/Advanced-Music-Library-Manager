@@ -1,0 +1,235 @@
+[2025-07-12 21:36:46] [INFO] Starting Music Library Manager
+[2025-07-12 21:36:46] [INFO] Source: h:\\Music\\1989 - Bleach @320
+[2025-07-12 21:36:46] [INFO] Output: h:\Music_Test_Organized
+[2025-07-12 21:36:46] [INFO] Dry Run: True
+[2025-07-12 21:36:46] [INFO] Web Search: True
+[2025-07-12 21:36:46] [INFO] Found 13 music files
+[2025-07-12 21:36:46] [INFO] Processing (1/13): H:\Music\1989 - Bleach @320\01 - Blew.mp3
+[2025-07-12 21:36:47] [INFO] DEBUG - CorrectedMetadata for 01 - Blew.mp3:
+[2025-07-12 21:36:47] [INFO]   Album = 'Bleach'
+[2025-07-12 21:36:47] [INFO]   TrackFromFile = '01'
+[2025-07-12 21:36:47] [INFO]   Track = '1'
+[2025-07-12 21:36:47] [INFO]   Title = 'Bleach'
+[2025-07-12 21:36:47] [INFO]   TitleFromFile = 'Blew'
+[2025-07-12 21:36:47] [INFO]   Year = '1989'
+[2025-07-12 21:36:47] [INFO]   YearFromFolder = '1989'
+[2025-07-12 21:36:47] [INFO]   Genre = 'Grunge'
+[2025-07-12 21:36:47] [INFO]   Duration = '00:02:54'
+[2025-07-12 21:36:47] [INFO]   ArtistFromFolder = '1989'
+[2025-07-12 21:36:47] [INFO]   Bitrate = '?320kbps'
+[2025-07-12 21:36:47] [INFO]   AlbumFromFolder = 'Bleach @320'
+[2025-07-12 21:36:47] [INFO]   Artist = 'Erith'
+[2025-07-12 21:36:47] [INFO] DEBUG - New-OrganizedPath values: Artist='Erith', Album='Bleach', Title='Bleach', Year='1989', Genre='Grunge', Track='1'
+[2025-07-12 21:36:47] [INFO] [DRY RUN] Would copy: H:\Music\1989 - Bleach @320\01 - Blew.mp3 -> h:\Music_Test_Organized\Grunge\Erith\1989 - Bleach\01 - Bleach.mp3
+[2025-07-12 21:36:47] [INFO] Processing (2/13): H:\Music\1989 - Bleach @320\02 - Floyd the Barber.mp3
+[2025-07-12 21:36:47] [INFO] DEBUG - CorrectedMetadata for 02 - Floyd the Barber.mp3:
+[2025-07-12 21:36:47] [INFO]   Album = 'Bleach'
+[2025-07-12 21:36:47] [INFO]   TrackFromFile = '02'
+[2025-07-12 21:36:47] [INFO]   Track = '2'
+[2025-07-12 21:36:47] [INFO]   Title = 'Bleach'
+[2025-07-12 21:36:47] [INFO]   TitleFromFile = 'Floyd the Barber'
+[2025-07-12 21:36:47] [INFO]   Year = '1989'
+[2025-07-12 21:36:47] [INFO]   YearFromFolder = '1989'
+[2025-07-12 21:36:47] [INFO]   Genre = 'Grunge'
+[2025-07-12 21:36:47] [INFO]   Duration = '00:02:18'
+[2025-07-12 21:36:47] [INFO]   ArtistFromFolder = '1989'
+[2025-07-12 21:36:47] [INFO]   Bitrate = '?320kbps'
+[2025-07-12 21:36:47] [INFO]   AlbumFromFolder = 'Bleach @320'
+[2025-07-12 21:36:47] [INFO]   Artist = 'Erith'
+[2025-07-12 21:36:47] [INFO] DEBUG - New-OrganizedPath values: Artist='Erith', Album='Bleach', Title='Bleach', Year='1989', Genre='Grunge', Track='2'
+[2025-07-12 21:36:47] [INFO] [DRY RUN] Would copy: H:\Music\1989 - Bleach @320\02 - Floyd the Barber.mp3 -> h:\Music_Test_Organized\Grunge\Erith\1989 - Bleach\02 - Bleach.mp3
+[2025-07-12 21:36:47] [INFO] Processing (3/13): H:\Music\1989 - Bleach @320\03 - About a Girl.mp3
+[2025-07-12 21:36:47] [INFO] DEBUG - CorrectedMetadata for 03 - About a Girl.mp3:
+[2025-07-12 21:36:47] [INFO]   Album = 'Bleach'
+[2025-07-12 21:36:47] [INFO]   TrackFromFile = '03'
+[2025-07-12 21:36:47] [INFO]   Track = '3'
+[2025-07-12 21:36:47] [INFO]   Title = 'Bleach'
+[2025-07-12 21:36:47] [INFO]   TitleFromFile = 'About a Girl'
+[2025-07-12 21:36:47] [INFO]   Year = '1989'
+[2025-07-12 21:36:47] [INFO]   YearFromFolder = '1989'
+[2025-07-12 21:36:47] [INFO]   Genre = 'Grunge'
+[2025-07-12 21:36:47] [INFO]   Duration = '00:02:48'
+[2025-07-12 21:36:47] [INFO]   ArtistFromFolder = '1989'
+[2025-07-12 21:36:47] [INFO]   Bitrate = '?320kbps'
+[2025-07-12 21:36:47] [INFO]   AlbumFromFolder = 'Bleach @320'
+[2025-07-12 21:36:47] [INFO]   Artist = 'Erith'
+[2025-07-12 21:36:47] [INFO] DEBUG - New-OrganizedPath values: Artist='Erith', Album='Bleach', Title='Bleach', Year='1989', Genre='Grunge', Track='3'
+[2025-07-12 21:36:47] [INFO] [DRY RUN] Would copy: H:\Music\1989 - Bleach @320\03 - About a Girl.mp3 -> h:\Music_Test_Organized\Grunge\Erith\1989 - Bleach\03 - Bleach.mp3
+[2025-07-12 21:36:47] [INFO] Processing (4/13): H:\Music\1989 - Bleach @320\04 - School.mp3
+[2025-07-12 21:36:47] [INFO] DEBUG - CorrectedMetadata for 04 - School.mp3:
+[2025-07-12 21:36:47] [INFO]   Album = 'Bleach'
+[2025-07-12 21:36:47] [INFO]   TrackFromFile = '04'
+[2025-07-12 21:36:47] [INFO]   Track = '4'
+[2025-07-12 21:36:47] [INFO]   Title = 'Bleach'
+[2025-07-12 21:36:47] [INFO]   TitleFromFile = 'School'
+[2025-07-12 21:36:47] [INFO]   Year = '1989'
+[2025-07-12 21:36:47] [INFO]   YearFromFolder = '1989'
+[2025-07-12 21:36:47] [INFO]   Genre = 'Grunge'
+[2025-07-12 21:36:47] [INFO]   Duration = '00:02:42'
+[2025-07-12 21:36:47] [INFO]   ArtistFromFolder = '1989'
+[2025-07-12 21:36:47] [INFO]   Bitrate = '?320kbps'
+[2025-07-12 21:36:47] [INFO]   AlbumFromFolder = 'Bleach @320'
+[2025-07-12 21:36:47] [INFO]   Artist = 'Erith'
+[2025-07-12 21:36:47] [INFO] DEBUG - New-OrganizedPath values: Artist='Erith', Album='Bleach', Title='Bleach', Year='1989', Genre='Grunge', Track='4'
+[2025-07-12 21:36:47] [INFO] [DRY RUN] Would copy: H:\Music\1989 - Bleach @320\04 - School.mp3 -> h:\Music_Test_Organized\Grunge\Erith\1989 - Bleach\04 - Bleach.mp3
+[2025-07-12 21:36:47] [INFO] Processing (5/13): H:\Music\1989 - Bleach @320\05 - Love Buzz.mp3
+[2025-07-12 21:36:47] [INFO] DEBUG - CorrectedMetadata for 05 - Love Buzz.mp3:
+[2025-07-12 21:36:47] [INFO]   Album = 'Bleach'
+[2025-07-12 21:36:47] [INFO]   TrackFromFile = '05'
+[2025-07-12 21:36:47] [INFO]   Track = '5'
+[2025-07-12 21:36:47] [INFO]   Title = 'Bleach'
+[2025-07-12 21:36:47] [INFO]   TitleFromFile = 'Love Buzz'
+[2025-07-12 21:36:47] [INFO]   Year = '1989'
+[2025-07-12 21:36:47] [INFO]   YearFromFolder = '1989'
+[2025-07-12 21:36:47] [INFO]   Genre = 'Grunge'
+[2025-07-12 21:36:47] [INFO]   Duration = '00:03:35'
+[2025-07-12 21:36:47] [INFO]   ArtistFromFolder = '1989'
+[2025-07-12 21:36:47] [INFO]   Bitrate = '?320kbps'
+[2025-07-12 21:36:47] [INFO]   AlbumFromFolder = 'Bleach @320'
+[2025-07-12 21:36:47] [INFO]   Artist = 'Erith'
+[2025-07-12 21:36:47] [INFO] DEBUG - New-OrganizedPath values: Artist='Erith', Album='Bleach', Title='Bleach', Year='1989', Genre='Grunge', Track='5'
+[2025-07-12 21:36:47] [INFO] [DRY RUN] Would copy: H:\Music\1989 - Bleach @320\05 - Love Buzz.mp3 -> h:\Music_Test_Organized\Grunge\Erith\1989 - Bleach\05 - Bleach.mp3
+[2025-07-12 21:36:47] [INFO] Processing (6/13): H:\Music\1989 - Bleach @320\06 - Paper Cuts.mp3
+[2025-07-12 21:36:47] [INFO] DEBUG - CorrectedMetadata for 06 - Paper Cuts.mp3:
+[2025-07-12 21:36:47] [INFO]   Album = 'Bleach'
+[2025-07-12 21:36:47] [INFO]   TrackFromFile = '06'
+[2025-07-12 21:36:47] [INFO]   Track = '6'
+[2025-07-12 21:36:47] [INFO]   Title = 'Bleach'
+[2025-07-12 21:36:47] [INFO]   TitleFromFile = 'Paper Cuts'
+[2025-07-12 21:36:47] [INFO]   Year = '1989'
+[2025-07-12 21:36:47] [INFO]   YearFromFolder = '1989'
+[2025-07-12 21:36:47] [INFO]   Genre = 'Grunge'
+[2025-07-12 21:36:47] [INFO]   Duration = '00:04:05'
+[2025-07-12 21:36:47] [INFO]   ArtistFromFolder = '1989'
+[2025-07-12 21:36:47] [INFO]   Bitrate = '?320kbps'
+[2025-07-12 21:36:47] [INFO]   AlbumFromFolder = 'Bleach @320'
+[2025-07-12 21:36:47] [INFO]   Artist = 'Erith'
+[2025-07-12 21:36:47] [INFO] DEBUG - New-OrganizedPath values: Artist='Erith', Album='Bleach', Title='Bleach', Year='1989', Genre='Grunge', Track='6'
+[2025-07-12 21:36:47] [INFO] [DRY RUN] Would copy: H:\Music\1989 - Bleach @320\06 - Paper Cuts.mp3 -> h:\Music_Test_Organized\Grunge\Erith\1989 - Bleach\06 - Bleach.mp3
+[2025-07-12 21:36:47] [INFO] Processing (7/13): H:\Music\1989 - Bleach @320\07 - Negative Creep.mp3
+[2025-07-12 21:36:47] [INFO] DEBUG - CorrectedMetadata for 07 - Negative Creep.mp3:
+[2025-07-12 21:36:47] [INFO]   Album = 'Bleach'
+[2025-07-12 21:36:47] [INFO]   TrackFromFile = '07'
+[2025-07-12 21:36:47] [INFO]   Track = '7'
+[2025-07-12 21:36:47] [INFO]   Title = 'Bleach'
+[2025-07-12 21:36:47] [INFO]   TitleFromFile = 'Negative Creep'
+[2025-07-12 21:36:47] [INFO]   Year = '1989'
+[2025-07-12 21:36:47] [INFO]   YearFromFolder = '1989'
+[2025-07-12 21:36:47] [INFO]   Genre = 'Grunge'
+[2025-07-12 21:36:47] [INFO]   Duration = '00:02:55'
+[2025-07-12 21:36:47] [INFO]   ArtistFromFolder = '1989'
+[2025-07-12 21:36:47] [INFO]   Bitrate = '?320kbps'
+[2025-07-12 21:36:47] [INFO]   AlbumFromFolder = 'Bleach @320'
+[2025-07-12 21:36:47] [INFO]   Artist = 'Erith'
+[2025-07-12 21:36:47] [INFO] DEBUG - New-OrganizedPath values: Artist='Erith', Album='Bleach', Title='Bleach', Year='1989', Genre='Grunge', Track='7'
+[2025-07-12 21:36:47] [INFO] [DRY RUN] Would copy: H:\Music\1989 - Bleach @320\07 - Negative Creep.mp3 -> h:\Music_Test_Organized\Grunge\Erith\1989 - Bleach\07 - Bleach.mp3
+[2025-07-12 21:36:47] [INFO] Processing (8/13): H:\Music\1989 - Bleach @320\08 - Scoff.mp3
+[2025-07-12 21:36:47] [INFO] DEBUG - CorrectedMetadata for 08 - Scoff.mp3:
+[2025-07-12 21:36:47] [INFO]   Album = 'Bleach'
+[2025-07-12 21:36:47] [INFO]   TrackFromFile = '08'
+[2025-07-12 21:36:47] [INFO]   Track = '8'
+[2025-07-12 21:36:47] [INFO]   Title = 'Bleach'
+[2025-07-12 21:36:47] [INFO]   TitleFromFile = 'Scoff'
+[2025-07-12 21:36:47] [INFO]   Year = '1989'
+[2025-07-12 21:36:47] [INFO]   YearFromFolder = '1989'
+[2025-07-12 21:36:47] [INFO]   Genre = 'Grunge'
+[2025-07-12 21:36:47] [INFO]   Duration = '00:04:10'
+[2025-07-12 21:36:47] [INFO]   ArtistFromFolder = '1989'
+[2025-07-12 21:36:47] [INFO]   Bitrate = '?320kbps'
+[2025-07-12 21:36:47] [INFO]   AlbumFromFolder = 'Bleach @320'
+[2025-07-12 21:36:47] [INFO]   Artist = 'Erith'
+[2025-07-12 21:36:47] [INFO] DEBUG - New-OrganizedPath values: Artist='Erith', Album='Bleach', Title='Bleach', Year='1989', Genre='Grunge', Track='8'
+[2025-07-12 21:36:47] [INFO] [DRY RUN] Would copy: H:\Music\1989 - Bleach @320\08 - Scoff.mp3 -> h:\Music_Test_Organized\Grunge\Erith\1989 - Bleach\08 - Bleach.mp3
+[2025-07-12 21:36:47] [INFO] Processing (9/13): H:\Music\1989 - Bleach @320\09 - Swap Meet.mp3
+[2025-07-12 21:36:47] [INFO] DEBUG - CorrectedMetadata for 09 - Swap Meet.mp3:
+[2025-07-12 21:36:47] [INFO]   Album = 'Bleach'
+[2025-07-12 21:36:47] [INFO]   TrackFromFile = '09'
+[2025-07-12 21:36:47] [INFO]   Track = '9'
+[2025-07-12 21:36:47] [INFO]   Title = 'Bleach'
+[2025-07-12 21:36:47] [INFO]   TitleFromFile = 'Swap Meet'
+[2025-07-12 21:36:47] [INFO]   Year = '1989'
+[2025-07-12 21:36:47] [INFO]   YearFromFolder = '1989'
+[2025-07-12 21:36:47] [INFO]   Genre = 'Grunge'
+[2025-07-12 21:36:47] [INFO]   Duration = '00:03:03'
+[2025-07-12 21:36:47] [INFO]   ArtistFromFolder = '1989'
+[2025-07-12 21:36:47] [INFO]   Bitrate = '?320kbps'
+[2025-07-12 21:36:47] [INFO]   AlbumFromFolder = 'Bleach @320'
+[2025-07-12 21:36:47] [INFO]   Artist = 'Erith'
+[2025-07-12 21:36:47] [INFO] DEBUG - New-OrganizedPath values: Artist='Erith', Album='Bleach', Title='Bleach', Year='1989', Genre='Grunge', Track='9'
+[2025-07-12 21:36:47] [INFO] [DRY RUN] Would copy: H:\Music\1989 - Bleach @320\09 - Swap Meet.mp3 -> h:\Music_Test_Organized\Grunge\Erith\1989 - Bleach\09 - Bleach.mp3
+[2025-07-12 21:36:47] [INFO] Processing (10/13): H:\Music\1989 - Bleach @320\10 - Mr. Moustache.mp3
+[2025-07-12 21:36:47] [INFO] DEBUG - CorrectedMetadata for 10 - Mr. Moustache.mp3:
+[2025-07-12 21:36:47] [INFO]   Album = 'Bleach'
+[2025-07-12 21:36:47] [INFO]   TrackFromFile = '10'
+[2025-07-12 21:36:47] [INFO]   Track = '10'
+[2025-07-12 21:36:47] [INFO]   Title = 'Bleach'
+[2025-07-12 21:36:47] [INFO]   TitleFromFile = 'Mr. Moustache'
+[2025-07-12 21:36:47] [INFO]   Year = '1989'
+[2025-07-12 21:36:47] [INFO]   YearFromFolder = '1989'
+[2025-07-12 21:36:47] [INFO]   Genre = 'Grunge'
+[2025-07-12 21:36:47] [INFO]   Duration = '00:03:23'
+[2025-07-12 21:36:47] [INFO]   ArtistFromFolder = '1989'
+[2025-07-12 21:36:48] [INFO]   Bitrate = '?320kbps'
+[2025-07-12 21:36:48] [INFO]   AlbumFromFolder = 'Bleach @320'
+[2025-07-12 21:36:48] [INFO]   Artist = 'Erith'
+[2025-07-12 21:36:48] [INFO] DEBUG - New-OrganizedPath values: Artist='Erith', Album='Bleach', Title='Bleach', Year='1989', Genre='Grunge', Track='10'
+[2025-07-12 21:36:48] [INFO] [DRY RUN] Would copy: H:\Music\1989 - Bleach @320\10 - Mr. Moustache.mp3 -> h:\Music_Test_Organized\Grunge\Erith\1989 - Bleach\10 - Bleach.mp3
+[2025-07-12 21:36:48] [INFO] Processing (11/13): H:\Music\1989 - Bleach @320\11 - Sifting.mp3
+[2025-07-12 21:36:48] [INFO] DEBUG - CorrectedMetadata for 11 - Sifting.mp3:
+[2025-07-12 21:36:48] [INFO]   Album = 'Bleach'
+[2025-07-12 21:36:48] [INFO]   TrackFromFile = '11'
+[2025-07-12 21:36:48] [INFO]   Track = '11'
+[2025-07-12 21:36:48] [INFO]   Title = 'Bleach'
+[2025-07-12 21:36:48] [INFO]   TitleFromFile = 'Sifting'
+[2025-07-12 21:36:48] [INFO]   Year = '1989'
+[2025-07-12 21:36:48] [INFO]   YearFromFolder = '1989'
+[2025-07-12 21:36:48] [INFO]   Genre = 'Grunge'
+[2025-07-12 21:36:48] [INFO]   Duration = '00:05:22'
+[2025-07-12 21:36:48] [INFO]   ArtistFromFolder = '1989'
+[2025-07-12 21:36:48] [INFO]   Bitrate = '?320kbps'
+[2025-07-12 21:36:48] [INFO]   AlbumFromFolder = 'Bleach @320'
+[2025-07-12 21:36:48] [INFO]   Artist = 'Erith'
+[2025-07-12 21:36:48] [INFO] DEBUG - New-OrganizedPath values: Artist='Erith', Album='Bleach', Title='Bleach', Year='1989', Genre='Grunge', Track='11'
+[2025-07-12 21:36:48] [INFO] [DRY RUN] Would copy: H:\Music\1989 - Bleach @320\11 - Sifting.mp3 -> h:\Music_Test_Organized\Grunge\Erith\1989 - Bleach\11 - Bleach.mp3
+[2025-07-12 21:36:48] [INFO] Processing (12/13): H:\Music\1989 - Bleach @320\12 - Big Cheese.mp3
+[2025-07-12 21:36:48] [INFO] DEBUG - CorrectedMetadata for 12 - Big Cheese.mp3:
+[2025-07-12 21:36:48] [INFO]   Album = 'Bleach'
+[2025-07-12 21:36:48] [INFO]   TrackFromFile = '12'
+[2025-07-12 21:36:48] [INFO]   Track = '12'
+[2025-07-12 21:36:48] [INFO]   Title = 'Bleach'
+[2025-07-12 21:36:48] [INFO]   TitleFromFile = 'Big Cheese'
+[2025-07-12 21:36:48] [INFO]   Year = '1989'
+[2025-07-12 21:36:48] [INFO]   YearFromFolder = '1989'
+[2025-07-12 21:36:48] [INFO]   Genre = 'Grunge'
+[2025-07-12 21:36:48] [INFO]   Duration = '00:03:42'
+[2025-07-12 21:36:48] [INFO]   ArtistFromFolder = '1989'
+[2025-07-12 21:36:48] [INFO]   Bitrate = '?320kbps'
+[2025-07-12 21:36:48] [INFO]   AlbumFromFolder = 'Bleach @320'
+[2025-07-12 21:36:48] [INFO]   Artist = 'Erith'
+[2025-07-12 21:36:48] [INFO] DEBUG - New-OrganizedPath values: Artist='Erith', Album='Bleach', Title='Bleach', Year='1989', Genre='Grunge', Track='12'
+[2025-07-12 21:36:48] [INFO] [DRY RUN] Would copy: H:\Music\1989 - Bleach @320\12 - Big Cheese.mp3 -> h:\Music_Test_Organized\Grunge\Erith\1989 - Bleach\12 - Bleach.mp3
+[2025-07-12 21:36:48] [INFO] Processing (13/13): H:\Music\1989 - Bleach @320\13 - Downer.mp3
+[2025-07-12 21:36:48] [INFO] DEBUG - CorrectedMetadata for 13 - Downer.mp3:
+[2025-07-12 21:36:48] [INFO]   Album = 'Bleach'
+[2025-07-12 21:36:48] [INFO]   TrackFromFile = '13'
+[2025-07-12 21:36:48] [INFO]   Track = '13'
+[2025-07-12 21:36:48] [INFO]   Title = 'Bleach'
+[2025-07-12 21:36:48] [INFO]   TitleFromFile = 'Downer'
+[2025-07-12 21:36:48] [INFO]   Year = '1989'
+[2025-07-12 21:36:48] [INFO]   YearFromFolder = '1989'
+[2025-07-12 21:36:48] [INFO]   Genre = 'Grunge'
+[2025-07-12 21:36:48] [INFO]   Duration = '00:01:42'
+[2025-07-12 21:36:48] [INFO]   ArtistFromFolder = '1989'
+[2025-07-12 21:36:48] [INFO]   Bitrate = '?320kbps'
+[2025-07-12 21:36:48] [INFO]   AlbumFromFolder = 'Bleach @320'
+[2025-07-12 21:36:48] [INFO]   Artist = 'Erith'
+[2025-07-12 21:36:48] [INFO] DEBUG - New-OrganizedPath values: Artist='Erith', Album='Bleach', Title='Bleach', Year='1989', Genre='Grunge', Track='13'
+[2025-07-12 21:36:48] [INFO] [DRY RUN] Would copy: H:\Music\1989 - Bleach @320\13 - Downer.mp3 -> h:\Music_Test_Organized\Grunge\Erith\1989 - Bleach\13 - Bleach.mp3
+[2025-07-12 21:36:48] [ERROR] Failed to export manifest: Could not find a part of the path 'H:\Music_Test_Organized\MusicLibraryManifest.json'.
+[2025-07-12 21:36:48] [INFO] Processing completed!
+[2025-07-12 21:36:48] [INFO] Processed: 13 files
+[2025-07-12 21:36:48] [INFO] Corrected: 13 files
+[2025-07-12 21:36:48] [INFO] Errors: 0
+[2025-07-12 21:36:48] [INFO] Artists: 1
+[2025-07-12 21:36:48] [INFO] Albums: 1
+[2025-07-12 21:36:48] [INFO] Genres: 1

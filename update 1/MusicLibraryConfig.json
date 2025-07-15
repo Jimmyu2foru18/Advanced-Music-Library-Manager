@@ -1,0 +1,122 @@
+{
+  "SearchProviders": {
+    "MusicBrainz": {
+      "Enabled": true,
+      "RateLimit": 1000,
+      "MaxRetries": 3
+    },
+    "LastFm": {
+      "Enabled": false,
+      "ApiKey": "YOUR_LASTFM_API_KEY_HERE",
+      "RateLimit": 5000,
+      "MaxRetries": 3
+    },
+    "Discogs": {
+      "Enabled": false,
+      "Token": "YOUR_DISCOGS_TOKEN_HERE",
+      "RateLimit": 1000,
+      "MaxRetries": 3
+    },
+    "Spotify": {
+      "Enabled": false,
+      "ClientId": "YOUR_SPOTIFY_CLIENT_ID",
+      "ClientSecret": "YOUR_SPOTIFY_CLIENT_SECRET",
+      "RateLimit": 2000,
+      "MaxRetries": 3
+    }
+  },
+  "Processing": {
+    "MaxConcurrentFiles": 5,
+    "EnableWebSearch": true,
+    "SearchTimeout": 10,
+    "BackupOriginalFiles": true,
+    "CreatePlaylists": true,
+    "GenerateManifest": true
+  },
+  "FileOrganization": {
+    "Structure": "Genre\\Artist\\Year - Album",
+    "FileNaming": "Track - Title",
+    "SupportedFormats": ["mp3", "flac", "m4a", "wav", "wma", "ogg"],
+    "CopyArtwork": true,
+    "ArtworkFormats": ["jpg", "jpeg", "png", "bmp", "gif"]
+  },
+  "MetadataCorrection": {
+    "TrustOnlineData": true,
+    "PreferredSource": "MusicBrainz",
+    "FallbackToFolderNames": true,
+    "StandardizeGenres": true,
+    "CleanArtistNames": true,
+    "ValidateYears": true
+  },
+  "GenreMapping": {
+    "Alternative Rock": "Alternative",
+    "Alt Rock": "Alternative",
+    "Hip Hop": "Hip-Hop",
+    "Rap": "Hip-Hop",
+    "R&B": "R&B/Soul",
+    "Rhythm and Blues": "R&B/Soul",
+    "Electronic Dance Music": "Electronic",
+    "EDM": "Electronic",
+    "Heavy Metal": "Metal",
+    "Death Metal": "Metal",
+    "Black Metal": "Metal",
+    "Progressive Rock": "Progressive",
+    "Prog Rock": "Progressive",
+    "Country Music": "Country",
+    "Folk Music": "Folk",
+    "Classical Music": "Classical"
+  },
+  "ArtistGenreMapping": {
+    "Nirvana": "Grunge",
+    "Pearl Jam": "Grunge",
+    "Soundgarden": "Grunge",
+    "Alice in Chains": "Grunge",
+    "Red Hot Chili Peppers": "Alternative Rock",
+    "Radiohead": "Alternative Rock",
+    "Metallica": "Metal",
+    "Iron Maiden": "Metal",
+    "Black Sabbath": "Metal",
+    "Led Zeppelin": "Classic Rock",
+    "The Beatles": "Classic Rock",
+    "Pink Floyd": "Progressive Rock",
+    "Queen": "Classic Rock",
+    "AC/DC": "Hard Rock",
+    "Guns N' Roses": "Hard Rock",
+    "Eminem": "Hip-Hop",
+    "Jay-Z": "Hip-Hop",
+    "Kanye West": "Hip-Hop",
+    "Drake": "Hip-Hop",
+    "Kendrick Lamar": "Hip-Hop",
+    "Taylor Swift": "Pop",
+    "Ariana Grande": "Pop",
+    "Ed Sheeran": "Pop",
+    "Adele": "Pop",
+    "Beyoncé": "R&B/Soul",
+    "John Mayer": "Blues",
+    "B.B. King": "Blues",
+    "Johnny Cash": "Country",
+    "Dolly Parton": "Country",
+    "Bob Dylan": "Folk",
+    "Joni Mitchell": "Folk",
+    "Daft Punk": "Electronic",
+    "Deadmau5": "Electronic",
+    "Skrillex": "Electronic",
+    "Calvin Harris": "Electronic"
+  },
+  "Logging": {
+    "LogLevel": "INFO",
+    "LogToFile": true,
+    "LogToConsole": true,
+    "MaxLogSize": "10MB",
+    "KeepLogDays": 30
+  },
+  "Playlists": {
+    "CreateByGenre": true,
+    "CreateByArtist": true,
+    "CreateByYear": true,
+    "CreateByDecade": true,
+    "CreateByAlbum": false,
+    "MinTracksForPlaylist": 3,
+    "PlaylistFormat": "m3u"
+  }
+}
